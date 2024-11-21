@@ -5,6 +5,11 @@
 ### Overview
 This challenge is designed to help you become comfortable with fundamental Linux terminal commands. The activity is split into a walkthrough phase where we go through several commands step-by-step, and a challenge phase where you need to apply your new knowledge to solve real tasks.
 
+All of these commands should be run from a container:
+```
+docker container run -it ubuntu:latest /bin/bash
+```
+
 **Total Time**: 50-60 minutes
 
 - **Walkthrough Phase**: 30-40 minutes
